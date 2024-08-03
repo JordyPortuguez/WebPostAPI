@@ -1,0 +1,23 @@
+form{
+    margin: 0 auto;
+    width: 600px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    
+
+}
+button{
+    text-align: center;
+
+}
+
+.centrar-listas {
+	text-align: center;
+}
+
+.centrar-listas ul,
+.centrar-listas ol {
+	text-align: left;
+	display: inline-block;
+}
